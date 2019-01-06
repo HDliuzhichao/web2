@@ -1,0 +1,334 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a,ul,ol,li{
+	text-decoration: none;
+	list-style: none;
+	color: #000;
+}
+#body1{
+	width: 1180px;
+	margin: 0 auto;
+}
+#body1>ul>li{
+	line-height: 32px;
+	font-size: 12px;
+	float: left;
+}
+#ul1{
+	height: 32px;
+}
+#li2{
+	padding-left: 363px;
+}
+#li2 li{
+	float: left;
+	margin-left: 17px;
+}
+.minimg{
+	height: 19px;
+	width: 19px;
+	margin-top: 7px;
+	background-image: url(../images/common_min.png);
+}
+#body1-1{
+	height: 72px;
+}
+#body1-1>ul>li{
+	float: left;
+}
+#li3{
+	width: 583px;
+	height: 40px;
+	margin-top: 22px;
+	margin-left: 108px;
+	background-color: #fe6c00;
+	border-radius: 1px;
+}
+#input1{
+	width: 497px;
+	height: 32px;
+	margin: 2px;
+	color: #d1d0ce;
+}
+#li3 span{
+	color: #fff;
+	margin-left: 16px;
+	text-align: center;
+}
+.li4{
+	margin-top: 22px;
+	margin-left: 90px;
+}
+.li4>div{
+	float: left;
+	width: 84px;
+	height: 38px;
+	border: 1px solid #eeeeec;
+	border-radius: 1px;
+}
+.li4 li{
+	margin: 2px auto;
+}
+.minimg1{
+	font-size: 12px;
+	color: #d6d5d4;
+	text-align: center;
+	line-height: 16px;
+}
+#div1{
+	background-color: #ff4d04;
+}
+#div1 div{
+	margin-top: 10px;
+	float: left;
+}
+#div1 span{
+	margin-top: 10px;
+	float: left;
+	font-size: 14px;
+	color: #fff;
+}
+
+#body1-2{
+	height: 21px;
+	margin-top: 4px;
+}
+#body1-2 li{
+	font-size: 11px;
+	float: left;
+}
+#body1-2 ul{
+	margin-left: 256px; 
+}
+.shuxian{
+	margin-left: 7px;
+	margin-right: 8px;
+	width: 1px;
+	height: 16px;
+	background-image: url(../images/shuxian.jpg);
+}
+.red1{
+	color: #ff8785;
+}
+.black1{
+	color: #b6b5b2;
+}
+#gray1{
+	color: #dadbe9；
+}
+.body2{
+	width: 100%;
+	height: 40px;
+	background-color: #000;
+}
+.body2 ul{
+	width: 1180px;
+	margin: 0 auto;
+}
+.body2 li{
+	width: 96px;
+	height: 40px;
+	margin-right: 30px;
+	text-align: center;
+	line-height: 40px;
+	font-weight: bold;
+	float: left;
+	color: #fff;
+}
+#li5{
+	background-color: #fe0d4a;
+}
+#li6{
+	margin-right: 0px;
+}
+#li7{
+	margin-left: 38px;
+}
+
+.body3{
+	width:100%;
+	background-color: #f6f5f4;
+}
+#body3-1{
+	width: 1180px;
+	margin: 0 auto;
+}
+#body3-1>p{
+	font-size: 12px;
+	line-height: 38px;
+}
+#body3-1 li{
+	float: left;
+}
+
+#li8{
+	width: 994px;
+	height: 631px;
+	background-color: #fff;
+}
+#li8 div{
+	float: left;
+}
+#img1{
+	width: 408px;
+	height: 408px;
+	border: 1px solid #efeeec;
+	margin: 20px;
+}
+#neirong{
+	width: 500px;
+	height: 431px;
+	margin-top: 20px;
+}
+.none{
+	width: 44px;
+	height: 451px;
+}
+#photo1{
+	margin-left: 20px;
+}
+#photo4{
+	margin-left: 252px;
+}
+#slider{
+	width:150px;
+	height:150px;
+	position:absolute;
+	left:0;top:0;
+	background:#CCC;
+	opacity:0.4;
+	cursor: move;
+	display:none;
+	filter:alpha(opacity=40);
+}
+#img2{
+	position:absolute;
+	right:0;top:0;
+	display:none; 
+	width:400px;
+	height:400px;
+	overflow:hidden;
+}
+#Bimg{
+	position:absolute;
+	left:0;top:0;
+}
+#p2{
+	line-height: 30px;
+}
+#p3{
+	font-size: 12px;
+	line-height: 20px;
+	color: #9e9292;
+}
+.p4{
+	font-size: 12px;
+	line-height: 30px;
+}
+#p5{
+	display: inline-block;
+}
+.b0{
+	width: 60px;
+	height: 28px;
+	background-color: #fff;
+}
+#input2{
+	width: 52px;
+	height: 27px;
+	text-align: center;
+}
+#b3{
+	width: 24px;
+	height: 30px;
+}
+#b4{
+	width: 24px;
+	height: 30px;
+}
+.btn{
+	width: 148px;
+	height: 38px;
+	margin-top: 10px;
+	font-size: 24px;
+	text-align: center;
+	line-height: 38px;
+	border: 1px solid #ff0754;
+}
+#ul4{
+	width: 440px;
+}
+
+#li9{
+	margin-left: 6px;
+}
+.body4{
+	width: 1180px;
+	height: 343px;
+	margin: 0 auto;
+}
+.body4 div{
+	width: 1180px;
+}
+.body4-1>li{
+	margin-left: 66px;
+	margin-top: 25px;
+	float: left;
+}
+.body4-1>li li{
+	font-size: 12px;
+	line-height: 26px;
+	color: #b4b5af;
+}
+.body4-1>li p{
+	font-size: 16px;
+	color: #000;
+}
+#first{
+	margin: 0;
+}
+#second{
+	margin-left: 84px;
+}
+.body4-2{
+	width: 1180px;
+	height: 161px;
+	border-top: 1px solid #f8f8f7;
+}
+#li10{
+	margin-left: 115px;
+}
+#ul3 li{
+	font-size: 12px;
+	color: #b4b5af;
+	line-height: 16px;
+	margin-top: 15px;
+	float: left;
+}
+.body4-2 p{
+	font-size: 12px;
+	line-height: 20px;
+	color: #b4b5af;
+	text-align: center;
+}
+.shuxian1{
+	margin-left: 14px;
+	margin-right: 14px;
+	width: 1px;
+	height: 16px;
+	background-image: url(../images/shuxian.jpg);
+}
+#p1{
+	margin-top: 35px;
+}
+#ul2{
+	width: 790px;
+	margin: 0 auto;
+	height: 54px;
+}
+#ul2 li{
+	float: left;
+	margin-left: 4px;
+}
